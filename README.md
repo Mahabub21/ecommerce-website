@@ -30,7 +30,7 @@ Here you will find all the images I'm using to create this responsive ecommerce 
 
 Get the full source code from (https://github.com/Mahabub21/ecommerce-website.git).
 
-preview link : 
+preview link:  https://mahabub21.github.io/ecommerce-website/
 
 preview: ![Screenshot_1](https://github.com/Mahabub21/ecommerce-website/assets/158444199/da736276-964c-473e-a438-c20e085a9e84)
 
