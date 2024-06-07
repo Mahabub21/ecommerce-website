@@ -28,6 +28,9 @@ LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS &
 
 Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
 
-Get the full source code from (https://github.com/Sefat-Khan/ecommerce-website.git).
+Get the full source code from (https://github.com/Mahabub21/ecommerce-website.git).
 
-preview link : https://sefat-khan.github.io/ecommerce-website/
+preview link : 
+
+preview: ![Screenshot_1](https://github.com/Mahabub21/ecommerce-website/assets/158444199/da736276-964c-473e-a438-c20e085a9e84)
+
